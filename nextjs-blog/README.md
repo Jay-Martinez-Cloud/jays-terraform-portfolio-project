@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# jays-terraform-portfolio-project
+Deploying a portfolio website on AWS using tools such as terraform, S3, CloudFront and Next.js, 
